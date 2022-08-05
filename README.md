@@ -1,6 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=C9D6FF&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=cdede5&height=100&section=header" />
 
+<h4>Hi, I'm eunyoung</h4>
 
+<h2>My stack 🌱</h2>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!--
 **A-ey/A-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
