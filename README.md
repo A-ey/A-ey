@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=C9D6FF&height=300&section=header&text=Ahn%20eunyoung&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=C9D6FF&height=100&section=header" />
 
 
 
