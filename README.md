@@ -2,12 +2,12 @@
 
 <h4>Hi, I'm eunyoung</h4>
 
-<h2>My stack 🌱</h2>
+<h2>My tech stack 🌱</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-cfbfe5.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-cfe5ce.svg?style=for-the-badge&logo=css3&logoColor=black)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-c4e0ef.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![JQUERY](https://img.shields.io/badge/JQUERY-f9e0c7.svg?style=for-the-badge&logo=jqurey&logoColor=black)
 
 <!--
 **A-ey/A-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
