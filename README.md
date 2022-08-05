@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=C9D6FF&height=300&section=header&text=Ahn%20eunyoung&fontSize=90&animation=twinkling" />
+
+
 
 <!--
 **A-ey/A-ey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
