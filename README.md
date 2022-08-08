@@ -5,7 +5,7 @@
   
   Hi, I'm eunyoung. 
   <br/>Thank you for visiting my Github.
-  <br/>It's been only six months since I learned about coding.
+  <br/>It's been only 8 months since I learned about coding.
   <br/>But, I've been studying steadily.
   <br/>And I'll be a growing front-end developer.
   
