@@ -17,9 +17,10 @@
 
   ![HTML5](https://img.shields.io/badge/HTML5-cfbfe5.svg?style=for-the-badge&logo=html5&logoColor=black)
   ![CSS3](https://img.shields.io/badge/CSS3-cfe5ce.svg?style=for-the-badge&logo=css3&logoColor=black)
-  ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-c4e0ef.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffff8d.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![JQUERY](https://img.shields.io/badge/JQUERY-f9e0c7.svg?style=for-the-badge&logo=jqurey&logoColor=black)<br/>
-  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-f9e0c7.svg?style=for-the-badge&logo=photoshop&logoColor=black)
+  ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-c4e0ef.svg?style=for-the-badge&logo=photoshop&logoColor=black)
+  ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-ffc0cb.svg?style=for-the-badge&logo=illustrator&logoColor=black)
 
 
 </div>
